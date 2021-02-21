@@ -15,3 +15,5 @@ Gameplay and controls are pretty basic (it was created in a day), but it's fully
 * Add more feedback to the player (show movements with animation, show last movements with an extra cursor, etc).
 * Add audio cd tracks.
 * Get better at chess to be able to beat this program :-)
+
+![Image of Saturn Chess running on real hardware](https://pbs.twimg.com/media/EutPYQSWQAQJxir?format=jpg&name=medium)
